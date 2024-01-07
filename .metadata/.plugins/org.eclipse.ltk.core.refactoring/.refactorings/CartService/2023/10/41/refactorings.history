@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.agcltr.cart.service.CArt&apos; to &apos;CartService&apos;&#x0D;&#x0A;- Original project: &apos;CartService&apos;&#x0D;&#x0A;- Original element: &apos;com.agcltr.cart.service.CArt&apos;&#x0D;&#x0A;- Renamed element: &apos;com.agcltr.cart.service.CartService&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CArt&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.agcltr.cart.service{CArt.java[CArt" matchStrategy="1" name="CartService" qualified="false" references="true" similarDeclarations="false" stamp="1697192951720" textual="false" version="1.0"/>
+</session>
